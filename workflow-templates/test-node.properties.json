@@ -1,0 +1,6 @@
+{
+  "name": "🚀 Test Node Workflow",
+  "description": "Clone Repo, Install NPM dependencies, build, lint, and run CI tests, according to ShiftNOW conventions",
+  "iconName": "logo",
+  "filePatterns": ["package.json$"]
+}
