@@ -14,11 +14,11 @@ We have a web application for clients and a mobile app for shifters. The mobile 
 
 ## Join Us
 
-If you're a business in need of quality talent or an individual looking for flexible work opportunities, <a href="https://www.shiftnow.com/" target="_blank">join us today</a>!
+If you're a business in need of quality talent or an individual looking for flexible work opportunities, [join us today](https://www.shiftnow.com/)!
 
 ## Contact Us
 
-For more information, visit our <a href="https://www.shiftnow.com/" target="_blank">website</a>.
+For more information, visit our [website](https://www.shiftnow.com/).
 
 ## Disclaimer
 
