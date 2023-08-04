@@ -1,4 +1,4 @@
-![ShiftNOW Logo](../shiftnow.svg)
+![ShiftNOW Logo](https://raw.githubusercontent.com/ShiftNOW/.github/6e9d910ec9c1ba838862b15cae60c63ef57c0106/shiftnow.svg)
 
 ## About Us
 
